@@ -1,7 +1,3 @@
 # 个人作品集
+https://github.com/FrankJIE09/my-works/assets/40479831/3e1d9218-ddc2-48f8-b1e9-7c4107c58dd2
 
-```HTML
-<video width="320" height="240" controls>
-    <source src="Portfolio.mp4" type="video/mp4">
-</video>
-```
